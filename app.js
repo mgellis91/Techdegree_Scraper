@@ -1,4 +1,4 @@
-givar fs = require('fs');
+var fs = require('fs');
 
 /*scraping - combination of both the request and cheerio module
 I used a combination of the Request and Cheerio npm packages in order to scrape the
